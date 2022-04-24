@@ -4,7 +4,7 @@ Proyecto Challenge DevOps - Bco Galicia
 Imagen usada: httpd-2.4 - Apache 2.4
 Código/template usado: HTML Básico Hello World + Imagen galicia
 
-Jenkinsfile - CD Pipeline
+Jenkinsfile - CD Pipeline - Pipeline Script usando DSL + Openshift Plugins para Jenkins.
 Contempla los Stages:
 
 1 - Acceso a Github. Acceso a repo y descarga del código
